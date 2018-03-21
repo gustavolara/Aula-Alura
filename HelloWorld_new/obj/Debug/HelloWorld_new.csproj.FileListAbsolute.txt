@@ -1,0 +1,10 @@
+C:\Users\Gustavo\Documents\Visual Studio 2017\Projects\HelloWorld_new\HelloWorld_new\bin\Debug\HelloWorld_new.exe.config
+C:\Users\Gustavo\Documents\Visual Studio 2017\Projects\HelloWorld_new\HelloWorld_new\bin\Debug\HelloWorld_new.exe
+C:\Users\Gustavo\Documents\Visual Studio 2017\Projects\HelloWorld_new\HelloWorld_new\bin\Debug\HelloWorld_new.pdb
+C:\Users\Gustavo\Documents\Visual Studio 2017\Projects\HelloWorld_new\HelloWorld_new\obj\Debug\HelloWorld_new.csprojResolveAssemblyReference.cache
+C:\Users\Gustavo\Documents\Visual Studio 2017\Projects\HelloWorld_new\HelloWorld_new\obj\Debug\HelloWorld_new.Form1.resources
+C:\Users\Gustavo\Documents\Visual Studio 2017\Projects\HelloWorld_new\HelloWorld_new\obj\Debug\HelloWorld_new.Properties.Resources.resources
+C:\Users\Gustavo\Documents\Visual Studio 2017\Projects\HelloWorld_new\HelloWorld_new\obj\Debug\HelloWorld_new.csproj.GenerateResource.Cache
+C:\Users\Gustavo\Documents\Visual Studio 2017\Projects\HelloWorld_new\HelloWorld_new\obj\Debug\HelloWorld_new.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Visual Studio 2017\Projects\HelloWorld_new\HelloWorld_new\obj\Debug\HelloWorld_new.exe
+C:\Users\Gustavo\Documents\Visual Studio 2017\Projects\HelloWorld_new\HelloWorld_new\obj\Debug\HelloWorld_new.pdb
